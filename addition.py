@@ -8,3 +8,11 @@ def add(a,b):
 
 ans = add(a,b)
 print("addition:",ans)
+
+
+def sub(a,b):
+    c = a + b
+    return c
+
+ans = sub(a,b)
+print("Sub:",ans)
