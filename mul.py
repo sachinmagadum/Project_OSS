@@ -1,3 +1,5 @@
+#this code is for addition
+# Author xyz
 a = 10
 
 b = 20
