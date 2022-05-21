@@ -1,3 +1,5 @@
+# Multiplication code
+# modified by swapnil
 a = 10
 
 b = 20
